@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Apache%20Maven-informational?style=flat&logo=Apache%20Maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Service-Travis-informational?style=flat&logo=Travis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Service-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web%20Service-Travis-informational?style=flat&logo=Travis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web%20Service-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=2bbc8a)
 ### Java проекты:
 2. [Форум (Spring Boot(Data, Security, Test), Heroku, Travis CI, Maven)](https://github.com/Jazzik42/job4j_forum)
 3. [Автонарушители (Hibernate, JdbcTemplate, Spring(MVC, Data, Security), Maven)](https://github.com/Jazzik42/job4j_car_accident)
