@@ -8,9 +8,9 @@
 * ## Основные технологии:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Apache%20Maven-informational?style=flat&logo=Apache%20Maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web%20Service-Travis-informational?style=flat&logo=Travis&logoColor=white&color=2bbc8a)
