@@ -17,8 +17,8 @@
 ![](https://img.shields.io/badge/Web%20Service-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=2bbc8a)
 ### Java проекты:
 2. [Форум (Spring Boot(Data, Security, Test), Heroku, Travis CI, Maven)](https://github.com/Jazzik42/job4j_forum)
-3. [Автонарушители (Hibernate, JdbcTemplate, Spring(MVC, Data, Security), Maven)](https://github.com/Jazzik42/job4j_car_accident)
-4. [Dream job (Servlet API, JSP, JDBC)](https://github.com/Jazzik42/job4j_dreamjob)
+3. [Автонарушители (Hibernate, Tomcat, JdbcTemplate, Spring(MVC, Data, Security), Maven)](https://github.com/Jazzik42/job4j_car_accident)
+4. [Dream job (Servlet API,Tomcat, JSP, JDBC)](https://github.com/Jazzik42/job4j_dreamjob)
 5. [Парсер веб страниц - Grabber (JDBC, JSoup, Quartz)](https://github.com/Jazzik42/job4j_grabber)
 6. [CRUD - Tracker (JDBC,PostgreSQL, Liquibase, JUnit4, Mockito, PowerMock, Hibernate)](https://github.com/Jazzik42/job4j_tracker)
 7. [Java IO, Java NIO(Утилиты zip и fileSearch), Collections, JDBC](https://github.com/Jazzik42/job4j_design)
