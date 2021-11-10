@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Web%20Service-Travis-informational?style=flat&logo=Travis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web%20Service-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=2bbc8a)
 ### Java проекты:
+1. [Chat (Spring Boot(Data, Security), REST, JWT authentication, Hibernate, PostgeSQL Maven)](https://github.com/Jazzik42/Chat)
 2. [Форум (Spring Boot(Data, Security, Test), Heroku, Travis CI, Maven)](https://github.com/Jazzik42/job4j_forum)
 3. [Автонарушители (Hibernate, Tomcat, JdbcTemplate, Spring(MVC, Data, Security), Maven)](https://github.com/Jazzik42/job4j_car_accident)
 4. [Dream job (Servlet API,Tomcat, JSP, JDBC)](https://github.com/Jazzik42/job4j_dreamjob)
